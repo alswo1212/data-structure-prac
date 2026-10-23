@@ -26,10 +26,12 @@ js 로 자료구조를 메모장에 손코딩 가능하게 만들기
 
 ### 순서
 
-- [ ] Queue
+- [x] Queue
+  - [ ] 이미 빠져나간 데이터가 실제로는 쌓여서 메모리를 먹고 있는 문제
 - [ ] Linked List
 - [ ] Deque
 - [ ] Heap
+- [ ] Stack
 - [ ] BST
 - [ ] Fenwick Tree
 - [ ] Segment Tree
