@@ -14,11 +14,11 @@ ai 사용해서 개발하다가 오랜만에 코테를 풀어보니
 
 ### 목적
 
-js 로 자료구조를 메모장에 손코딩 가능하게 만들기
+js(혹은 ts) 로 자료구조를 메모장에 손코딩 가능하게 만들기
 
 ### 사용 언어
 
-`js`
+`js`, `ts`
 
 왜? 지금 fe로 일하고 있으니까.
 
@@ -52,7 +52,7 @@ js 로 자료구조를 메모장에 손코딩 가능하게 만들기
 - [x] Deque
   - [ ] Circular Deque
 - [ ] Heap
-- [ ] Stack
+- [x] Stack
 - [ ] BST
 - [ ] Fenwick Tree
 - [ ] Segment Tree
